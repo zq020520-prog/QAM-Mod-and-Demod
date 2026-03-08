@@ -1,4 +1,4 @@
-function demodsignal=qam16demod_1(signal,h,noiseVar,outputType)
+function demodsignal=qam16demod_method1(signal,h,noiseVar,outputType)
 
   if noiseVar == 0
         error('noiseVar不能为零');
