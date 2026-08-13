@@ -156,13 +156,6 @@ The implemented modulation and soft demodulation modules can be used as building
 * LLR
 * Digital Communications
 
-## Future Work
-
-* Add 256-QAM
-* Support configurable constellation mapping
-* Optimize soft-demodulation performance
-* Integrate with LDPC decoding
-* Integrate with OFDM systems
 
 ## License
 
